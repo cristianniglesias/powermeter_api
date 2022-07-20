@@ -25,7 +25,7 @@ $`pyenv activate "nombre_entorno_virtual"                                       
 Se puede clonar el proyecto por medio del siguiente comando
 
 > $`git init`\
-$`git clone git@github.com:cristianniglesias/Powermeter_Prueba.git`
+$`git clone git@github.com:cristianniglesias/powermeter_api.git`
 
 
 
